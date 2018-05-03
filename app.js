@@ -1,4 +1,4 @@
-import './src/scss/common.scss'
-import {hello} from './src/js/test'
+import './src/scss/common.scss';
+import main from './src/js/main.js';
 
-hello()
+
